@@ -1,0 +1,4 @@
+ --script broadcast
+ --script default
+ --script version
+ --script safe

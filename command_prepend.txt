@@ -1,0 +1,19 @@
+ -sn
+ -sV
+ -O
+ -PS
+ -PA
+ -PU
+ -PY
+ -sS
+ -sA
+ -sT
+ -sU
+ -sW
+ -sM
+ -sZ
+ -sX
+ -sN
+ -sF
+ -sP
+ --top-ports "1000"
