@@ -28,7 +28,7 @@ and so on
 Configuration and Installation:
 -------------------------------
 
-1)In you github account create the following files for configuring the scans 
+1)In you github account create the following files for configuring the scans in your github repo "command_prepend.txt","daily_config.txt","weekly_config.txt". [I have attached them here in my repo for your use you can modify it if you need ]
 
 2)Get you github API Token open the ConfigFolder and open the ip_Hunt.py script 
 
