@@ -33,7 +33,7 @@ prLightPurple('██║██║░░░░░░░░░░░██║░�
 prYellow('╚═╝╚═╝░░░░░░░░░░░╚═╝░░╚═╝░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░')
 print("\n")
 prGreen("It\'s l!k3 the W!ld W3st , the Int3rn3t - Th3r @re n0 rul3Z")
-prRRed("Done by Mohammed Sharoz @dwhitehathoodie reach out as twitter or Insta")
+prRRed("Done by Mohammed Sharoz")
 for i in range (0,29):
     prRRed("#")
 PowerFlag=0
