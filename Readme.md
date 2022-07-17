@@ -54,6 +54,8 @@ Configuration and Installation:
 
 You are good to go !!!!
 
+Finally you can find the open ports based on different combination scans in the "Report" Folder under the "ScanResult" Directory 
+
 
 
 
